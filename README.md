@@ -1,2 +1,1 @@
-# AirBnB_clone
-This is the AirBnB_clone
+This is AirBnB_clone project
